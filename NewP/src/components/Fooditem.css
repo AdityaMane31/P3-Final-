@@ -1,0 +1,27 @@
+.food-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+.food-item img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.food-item button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    background-color: #f04e1e;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.food-item button:hover {
+    background-color: #d0451b;
+}

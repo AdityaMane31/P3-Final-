@@ -1,0 +1,10 @@
+.food-list {
+    padding: 20px;
+    text-align: center;
+}
+
+.food-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
